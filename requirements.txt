@@ -1,0 +1,4 @@
+flask==2.2.3
+flask_sqlalchemy==3.0.3
+pyllamacpp==1.0.6
+langchain==0.0.147
